@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hi 👋,I'm HASHIM
 💻 I am a freelance developer with experience in building secure and efficient applications.<br><br>⚙️ I specialize in Flutter, Python, and C++, with a strong interest in network security.<br><br>🌐 My focus is on creating practical solutions, from web and mobile apps to embedded systems , while ensuring optimal performance and security.<br><br>📚 I am committed to continuous learning and delivering high-quality work that meets client needs.
 
 
