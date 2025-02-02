@@ -30,19 +30,4 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif" />
 
----
-
-  ![Profile Views](https://komarev.com/ghpvc/?username=shanibkt&color=blue)
-
-
----
-
-### 🔗 Connect with Me
-<p align="left">
-  <a href="https://instagram.com/_shanib_._" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_shanib_._" height="30" width="40" />
-  </a>
-<a href="https://www.linkedin.com/in/shanib-k-t-/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-</a>
 
