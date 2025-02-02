@@ -9,7 +9,7 @@
 <br clear="both">
 <img src="https://raw.githubusercontent.com/ashhim/ashhim/output/snake.svg" alt="Snake animation" />
 
-![](https://github-readme-stats.vercel.app/api?username=ashhim&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)<br/><img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif](https://cdn.dribbble.com/userupload/8049223/file/original-d7d711af95ffdad232f7a3fbd7aebf31.mp4)" />
+![](https://github-readme-stats.vercel.app/api?username=ashhim&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ashhim&theme=transparent&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashhim&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
