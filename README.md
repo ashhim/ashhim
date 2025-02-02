@@ -2,7 +2,6 @@
 💻 I am a freelance developer with experience in building secure and efficient applications.<br><br>⚙️ I specialize in Flutter, Python, and C++, and a strong interest in network security.<br><br>🌐 My focus is on creating practical solutions, from web and mobile apps to embedded systems , while ensuring optimal performance and security.<br><br>📚 I am committed to continuous learning and delivering high-quality work that meets client needs.
 
 🌐 Socials:<br>
-
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ash_him__/profilecard/?igsh=MjVvcmNnazgweWdo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashhim/) 
 
 💻 Tech Stack:<br>
