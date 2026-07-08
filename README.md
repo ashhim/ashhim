@@ -11,22 +11,22 @@ Building secure software, intelligent embedded systems, and scalable application
 
 <div align="center">
 
-## Let's Connect
+### Connect with Me
 
-<a href="https://github.com/ashhim">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<a href="https://github.com/ashhim" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" width="48" />
 </a>
 
-<a href="https://www.linkedin.com/in/ashhim">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/ashhim" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" width="48" />
 </a>
 
-<a href="https://instagram.com/ash_him__/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
+<a href="https://instagram.com/ash_him__/" target="_blank">
+<img src="https://img.icons8.com/fluency/96/instagram-new.png" width="48" />
 </a>
 
 <a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+<img src="https://img.icons8.com/color/96/gmail-new.png" width="48" />
 </a>
 
 </div>
