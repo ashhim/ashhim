@@ -8,17 +8,6 @@
 Building secure software, intelligent embedded systems, and scalable applications across web, mobile, networking, and IoT.
 </p>
 
-<p>
-<a href="https://github.com/ashhim">
-<img src="https://img.shields.io/github/followers/ashhim?label=Followers&style=for-the-badge&color=181717&logo=github" />
-</a>
-
-<a href="https://github.com/ashhim">
-<img src="https://img.shields.io/github/stars/ashhim?affiliations=OWNER&style=for-the-badge&color=181717&logo=github" />
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=ashhim&style=for-the-badge&color=0e75b6" />
-</p>
 
 <p>
 <a href="https://www.linkedin.com/in/ashhim">
