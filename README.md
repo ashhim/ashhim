@@ -40,13 +40,10 @@ Building secure software, intelligent embedded systems, and scalable application
 
 ## About Me
 
-I am a developer focused on building practical technology that bridges software engineering, network infrastructure, and embedded systems.
-
-My work ranges from enterprise-style web applications and Flutter applications to Raspberry Pi platforms, IoT devices, networking tools, wireless security research, and custom embedded firmware.
-
-I enjoy solving real-world engineering problems by combining software architecture, networking, hardware integration, and security-first design.
+I'm an aspiring Network Engineer with a strong interest in software development, embedded systems, and cybersecurity. I enjoy designing secure, reliable, and scalable solutions by integrating software, hardware, and network infrastructure to solve real-world engineering challenges.
 
 ---
+
 
 ## Technology Stack
 
