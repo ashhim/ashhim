@@ -50,212 +50,232 @@ I enjoy solving real-world engineering problems by combining software architectu
 
 ## Technology Stack
 
+<div align="center">
+
 <table>
-  <tr>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" /><br>
-      <sub><b>Python</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="Dart" /><br>
-      <sub><b>Dart</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" /><br>
-      <sub><b>C++</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" /><br>
-      <sub><b>C</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" /><br>
-      <sub><b>Java</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" /><br>
-      <sub><b>JavaScript</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" /><br>
-      <sub><b>HTML5</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" /><br>
-      <sub><b>CSS3</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" /><br>
-      <sub><b>Flutter</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React.js" /><br>
-      <sub><b>React.js</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" /><br>
-      <sub><b>Node.js</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" /><br>
-      <sub><b>Bootstrap</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9" width="48" height="48" alt="Electron" /><br>
-      <sub><b>Electron</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" width="48" height="48" alt="Shell Scripting" /><br>
-      <sub><b>Shell Scripting</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white" width="48" height="48" alt="REST API" /><br>
-      <sub><b>REST API</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" width="48" height="48" alt="OpenCV" /><br>
-      <sub><b>OpenCV</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" /><br>
-      <sub><b>PostgreSQL</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" /><br>
-      <sub><b>MySQL</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" /><br>
-      <sub><b>MongoDB</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" /><br>
-      <sub><b>Firebase</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQLite" /><br>
-      <sub><b>SQLite</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://img.shields.io/badge/Modbus-00599C?style=for-the-badge" width="48" height="48" alt="Modbus" /><br>
-      <sub><b>Modbus</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" width="48" height="48" alt="STM32" /><br>
-      <sub><b>STM32</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" width="48" height="48" alt="SQLite" /><br>
-      <sub><b>SQLite</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=raspberrypi" width="48" height="48" alt="Raspberry Pi" /><br>
-      <sub><b>Raspberry Pi</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=arduino" width="48" height="48" alt="Arduino" /><br>
-      <sub><b>Arduino</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://img.shields.io/badge/ESP32-111111?style=for-the-badge" width="48" height="48" alt="ESP32" /><br>
-      <sub><b>ESP32</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://img.shields.io/badge/ESP8266-111111?style=for-the-badge" width="48" height="48" alt="ESP8266" /><br>
-      <sub><b>ESP8266</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://img.shields.io/badge/Embedded%20Systems-6E40C9?style=for-the-badge" width="48" height="48" alt="Embedded Systems" /><br>
-      <sub><b>Embedded Systems</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://img.shields.io/badge/IoT-0A66C2?style=for-the-badge" width="48" height="48" alt="IoT" /><br>
-      <sub><b>IoT</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://img.shields.io/badge/Network%20Security-111111?style=for-the-badge" width="48" height="48" alt="Network Security" /><br>
-      <sub><b>Network Security</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://img.shields.io/badge/Wireless%20Networking-1F75FE?style=for-the-badge" width="48" height="48" alt="Wireless Networking" /><br>
-      <sub><b>Wireless Networking</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" /><br>
-      <sub><b>Linux</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" /><br>
-      <sub><b>Docker</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /><br>
-      <sub><b>Git</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" /><br>
-      <sub><b>GitHub</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=cloudflare" width="48" height="48" alt="Cloudflare" /><br>
-      <sub><b>Cloudflare</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" width="48" height="48" alt="Cisco" /><br>
-      <sub><b>Cisco</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" width="48" height="48" alt="Kali Linux" /><br>
-      <sub><b>Kali Linux</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://img.shields.io/badge/SSH-2D2D2D?style=for-the-badge&logo=gnubash&logoColor=white" width="48" height="48" alt="SSH" /><br>
-      <sub><b>SSH</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" /><br>
-      <sub><b>VS Code</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" /><br>
-      <sub><b>Figma</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=pycharm" width="48" height="48" alt="PyCharm" /><br>
-      <sub><b>PyCharm</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" width="48" height="48" alt="Google Cloud" /><br>
-      <sub><b>Google Cloud</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" width="48" height="48" alt="Markdown" /><br>
-      <sub><b>Markdown</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://img.shields.io/badge/API-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white" width="48" height="48" alt="API" /><br>
-      <sub><b>API</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" width="48" height="48" alt="OpenCV" /><br>
-      <sub><b>OpenCV</b></sub>
-    </td>
-    <td align="center" width="110">
-      <img src="https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9" width="48" height="48" alt="Electron" /><br>
-      <sub><b>Electron</b></sub>
-    </td>
-  </tr>
+<tr>
+
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=python" width="50"/><br>
+<sub>Python</sub>
+</td>
+
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=dart" width="50"/><br>
+<sub>Dart</sub>
+</td>
+
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=c" width="50"/><br>
+<sub>C</sub>
+</td>
+
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=cpp" width="50"/><br>
+<sub>C++</sub>
+</td>
+
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=java" width="50"/><br>
+<sub>Java</sub>
+</td>
+
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=js" width="50"/><br>
+<sub>JavaScript</sub>
+</td>
+
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=html" width="50"/><br>
+<sub>HTML5</sub>
+</td>
+
+<td align="center" width="90">
+<img src="https://skillicons.dev/icons?i=css" width="50"/><br>
+<sub>CSS3</sub>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=flutter" width="50"/><br>
+<sub>Flutter</sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=react" width="50"/><br>
+<sub>React</sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=nodejs" width="50"/><br>
+<sub>Node.js</sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=electron" width="50"/><br>
+<sub>Electron</sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=bootstrap" width="50"/><br>
+<sub>Bootstrap</sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=firebase" width="50"/><br>
+<sub>Firebase</sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=postgres" width="50"/><br>
+<sub>PostgreSQL</sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mysql" width="50"/><br>
+<sub>MySQL</sub>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mongodb" width="50"/><br>
+<sub>MongoDB</sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=sqlite" width="50"/><br>
+<sub>SQLite</sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=raspberrypi" width="50"/><br>
+<sub>Raspberry Pi</sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=arduino" width="50"/><br>
+<sub>Arduino</sub>
+</td>
+
+<td align="center">
+<img src="https://img.shields.io/badge/ESP32-111111?style=flat-square&logo=espressif&logoColor=white"/><br>
+<sub>ESP32</sub>
+</td>
+
+<td align="center">
+<img src="https://img.shields.io/badge/ESP8266-111111?style=flat-square"/><br>
+<sub>ESP8266</sub>
+</td>
+
+<td align="center">
+<img src="https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white"/><br>
+<sub>STM32</sub>
+</td>
+
+<td align="center">
+<img src="https://img.shields.io/badge/Modbus-00599C?style=flat-square"/><br>
+<sub>Modbus</sub>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=linux" width="50"/><br>
+<sub>Linux</sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=docker" width="50"/><br>
+<sub>Docker</sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=git" width="50"/><br>
+<sub>Git</sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=github" width="50"/><br>
+<sub>GitHub</sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=cloudflare" width="50"/><br>
+<sub>Cloudflare</sub>
+</td>
+
+<td align="center">
+<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white"/><br>
+<sub>Cisco</sub>
+</td>
+
+<td align="center">
+<img src="https://img.shields.io/badge/Kali-557C94?style=flat-square&logo=kalilinux&logoColor=white"/><br>
+<sub>Kali</sub>
+</td>
+
+<td align="center">
+<img src="https://img.shields.io/badge/Nmap-00457C?style=flat-square"/><br>
+<sub>Nmap</sub>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/><br>
+<sub>OpenCV</sub>
+</td>
+
+<td align="center">
+<img src="https://img.shields.io/badge/SSH-111111?style=flat-square&logo=gnubash&logoColor=white"/><br>
+<sub>SSH</sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=gcp" width="50"/><br>
+<sub>Google Cloud</sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=vscode" width="50"/><br>
+<sub>VS Code</sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=pycharm" width="50"/><br>
+<sub>PyCharm</sub>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=figma" width="50"/><br>
+<sub>Figma</sub>
+</td>
+
+<td align="center">
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/><br>
+<sub>Actions</sub>
+</td>
+
+<td align="center">
+<img src="https://img.shields.io/badge/BLE-0082FC?style=flat-square"/><br>
+<sub>BLE</sub>
+</td>
+
+</tr>
+
 </table>
+
+</div>
 
 ## GitHub Dashboard
 
