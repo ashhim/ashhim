@@ -124,25 +124,4 @@ I enjoy solving real-world engineering problems by combining software architectu
 ---
 
 
-
-## Certifications
-
-<details>
-<summary><strong>Selected Certifications</strong></summary>
-
-- IBM AI Developer
-- Mastercard - Cybersecurity Job Simulation
-- AIG - Shields Up: Cybersecurity Job Simulation
-- Career Essentials in Generative AI by Microsoft and LinkedIn
-- Gateway to Cyber Security – Webinar Participation
-- Artificial Intelligence - Course Completion
-- Cisco - Ethical Hacker
-- Cisco - Introduction to Cybersecurity
-- You Are Techie - Flutter Program
-- HP LIFE - Introduction to Cybersecurity Awareness
-- Apple Search Ads Certificate
-- Google Ads Search Certification
-
-</details>
-
 ---
