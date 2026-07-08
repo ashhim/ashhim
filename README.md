@@ -48,65 +48,6 @@ I enjoy solving real-world engineering problems by combining software architectu
 
 ---
 
-## Specializations
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Software Engineering
-
-- Full-stack development
-- Cross-platform applications
-- REST API development
-- Database architecture
-- System integration
-- UI implementation
-
-</td>
-<td width="50%" valign="top">
-
-### Infrastructure & Networking
-
-- Network administration
-- Network security
-- Raspberry Pi systems
-- Linux administration
-- Cloudflare Tunnel
-- Wireless networking
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### Embedded & IoT
-
-- Embedded systems
-- Firmware development
-- ESP8266 and ESP32
-- Arduino-based prototyping
-- Sensor monitoring
-- Device integration
-
-</td>
-<td width="50%" valign="top">
-
-### Security Research
-
-- Vulnerability analysis
-- Reverse engineering
-- Bluetooth Low Energy
-- Penetration testing
-- Web security
-- Wireless security
-
-</td>
-</tr>
-</table>
-
----
-
 ## Technology Stack
 
 ### Languages
@@ -170,77 +111,16 @@ I enjoy solving real-world engineering problems by combining software architectu
 
 ---
 
-## Engineering Focus
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-- Backend Development
-- Mobile Development
-- Network Engineering
-- Embedded Systems
-
-</td>
-<td width="50%" valign="top">
-
-- Cyber Security
-- Database Design
-- UI Engineering
-- System Integration
-
-</td>
-</tr>
-</table>
-
----
-
-## Engineering Domains
-
-<table>
-<tr>
-<th align="left">Domain</th>
-<th align="left">Experience</th>
-</tr>
-<tr><td>Full-Stack Development</td><td>★★★★★</td></tr>
-<tr><td>Flutter Development</td><td>★★★★★</td></tr>
-<tr><td>Raspberry Pi Development</td><td>★★★★★</td></tr>
-<tr><td>Embedded Systems</td><td>★★★★★</td></tr>
-<tr><td>Network Administration</td><td>★★★★★</td></tr>
-<tr><td>Database Architecture</td><td>★★★★★</td></tr>
-<tr><td>Linux Systems</td><td>★★★★★</td></tr>
-<tr><td>Cyber Security</td><td>★★★★☆</td></tr>
-<tr><td>UI Engineering</td><td>★★★★☆</td></tr>
-<tr><td>IoT Development</td><td>★★★★★</td></tr>
-</table>
-
----
-
 ## GitHub Dashboard
 
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ashhim&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashhim&layout=compact&theme=transparent&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ashhim&theme=transparent&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashhim&theme=github-compact&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/ashhim/ashhim/output/snake.svg" alt="Snake animation"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=ashhim&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ashhim&theme=transparent&hide_border=true" alt="GitHub Streak" />
+  <br><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashhim&theme=github-compact&hide_border=true" alt="Activity Graph" />
+  <br><br>
+  <img src="https://raw.githubusercontent.com/ashhim/ashhim/output/snake.svg" alt="Snake animation" />
 </div>
 
 ---
