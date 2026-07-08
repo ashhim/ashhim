@@ -42,6 +42,7 @@ Building secure software, intelligent embedded systems, and scalable application
 
 I'm an aspiring Network Engineer with a strong interest in software development, embedded systems, and cybersecurity. I enjoy designing secure, reliable, and scalable solutions by integrating software, hardware, and network infrastructure to solve real-world engineering challenges.
 
+---
 
 ## Technology Stack
 
