@@ -103,13 +103,23 @@ I enjoy solving real-world engineering problems by combining software architectu
       <sub><b>Bootstrap</b></sub>
     </td>
     <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=electron" width="48" height="48" alt="Electron" /><br>
+      <img src="https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9" width="48" height="48" alt="Electron" /><br>
       <sub><b>Electron</b></sub>
     </td>
     <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=shell" width="48" height="48" alt="Shell" /><br>
-      <sub><b>Shell</b></sub>
+      <img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" width="48" height="48" alt="Shell Scripting" /><br>
+      <sub><b>Shell Scripting</b></sub>
     </td>
+    <td align="center" width="110">
+      <img src="https://img.shields.io/badge/REST%20API-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white" width="48" height="48" alt="REST API" /><br>
+      <sub><b>REST API</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" width="48" height="48" alt="OpenCV" /><br>
+      <sub><b>OpenCV</b></sub>
+    </td>
+  </tr>
+  <tr>
     <td align="center" width="110">
       <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" /><br>
       <sub><b>PostgreSQL</b></sub>
@@ -118,8 +128,6 @@ I enjoy solving real-world engineering problems by combining software architectu
       <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" /><br>
       <sub><b>MySQL</b></sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="110">
       <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" /><br>
       <sub><b>MongoDB</b></sub>
@@ -133,6 +141,20 @@ I enjoy solving real-world engineering problems by combining software architectu
       <sub><b>SQLite</b></sub>
     </td>
     <td align="center" width="110">
+      <img src="https://img.shields.io/badge/Modbus-00599C?style=for-the-badge" width="48" height="48" alt="Modbus" /><br>
+      <sub><b>Modbus</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" width="48" height="48" alt="STM32" /><br>
+      <sub><b>STM32</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" width="48" height="48" alt="SQLite" /><br>
+      <sub><b>SQLite</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="110">
       <img src="https://skillicons.dev/icons?i=raspberrypi" width="48" height="48" alt="Raspberry Pi" /><br>
       <sub><b>Raspberry Pi</b></sub>
     </td>
@@ -140,6 +162,32 @@ I enjoy solving real-world engineering problems by combining software architectu
       <img src="https://skillicons.dev/icons?i=arduino" width="48" height="48" alt="Arduino" /><br>
       <sub><b>Arduino</b></sub>
     </td>
+    <td align="center" width="110">
+      <img src="https://img.shields.io/badge/ESP32-111111?style=for-the-badge" width="48" height="48" alt="ESP32" /><br>
+      <sub><b>ESP32</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://img.shields.io/badge/ESP8266-111111?style=for-the-badge" width="48" height="48" alt="ESP8266" /><br>
+      <sub><b>ESP8266</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://img.shields.io/badge/Embedded%20Systems-6E40C9?style=for-the-badge" width="48" height="48" alt="Embedded Systems" /><br>
+      <sub><b>Embedded Systems</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://img.shields.io/badge/IoT-0A66C2?style=for-the-badge" width="48" height="48" alt="IoT" /><br>
+      <sub><b>IoT</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://img.shields.io/badge/Network%20Security-111111?style=for-the-badge" width="48" height="48" alt="Network Security" /><br>
+      <sub><b>Network Security</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://img.shields.io/badge/Wireless%20Networking-1F75FE?style=for-the-badge" width="48" height="48" alt="Wireless Networking" /><br>
+      <sub><b>Wireless Networking</b></sub>
+    </td>
+  </tr>
+  <tr>
     <td align="center" width="110">
       <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" /><br>
       <sub><b>Linux</b></sub>
@@ -152,8 +200,6 @@ I enjoy solving real-world engineering problems by combining software architectu
       <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" /><br>
       <sub><b>Git</b></sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="110">
       <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" /><br>
       <sub><b>GitHub</b></sub>
@@ -162,6 +208,20 @@ I enjoy solving real-world engineering problems by combining software architectu
       <img src="https://skillicons.dev/icons?i=cloudflare" width="48" height="48" alt="Cloudflare" /><br>
       <sub><b>Cloudflare</b></sub>
     </td>
+    <td align="center" width="110">
+      <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" width="48" height="48" alt="Cisco" /><br>
+      <sub><b>Cisco</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" width="48" height="48" alt="Kali Linux" /><br>
+      <sub><b>Kali Linux</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://img.shields.io/badge/SSH-2D2D2D?style=for-the-badge&logo=gnubash&logoColor=white" width="48" height="48" alt="SSH" /><br>
+      <sub><b>SSH</b></sub>
+    </td>
+  </tr>
+  <tr>
     <td align="center" width="110">
       <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" /><br>
       <sub><b>VS Code</b></sub>
@@ -175,16 +235,24 @@ I enjoy solving real-world engineering problems by combining software architectu
       <sub><b>PyCharm</b></sub>
     </td>
     <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=shell" width="48" height="48" alt="Shell Scripting" /><br>
-      <sub><b>Shell Scripting</b></sub>
+      <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" width="48" height="48" alt="Google Cloud" /><br>
+      <sub><b>Google Cloud</b></sub>
     </td>
     <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="API" /><br>
+      <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" width="48" height="48" alt="Markdown" /><br>
+      <sub><b>Markdown</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://img.shields.io/badge/API-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white" width="48" height="48" alt="API" /><br>
       <sub><b>API</b></sub>
     </td>
     <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=markdown" width="48" height="48" alt="Markdown" /><br>
-      <sub><b>Markdown</b></sub>
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" width="48" height="48" alt="OpenCV" /><br>
+      <sub><b>OpenCV</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9" width="48" height="48" alt="Electron" /><br>
+      <sub><b>Electron</b></sub>
     </td>
   </tr>
 </table>
