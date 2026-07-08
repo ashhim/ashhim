@@ -111,19 +111,7 @@ I enjoy solving real-world engineering problems by combining software architectu
 
 ---
 
-## GitHub Dashboard
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashhim&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ashhim&theme=transparent&hide_border=true" alt="GitHub Streak" />
-  <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashhim&theme=github-compact&hide_border=true" alt="Activity Graph" />
-  <br><br>
-  <img src="https://raw.githubusercontent.com/ashhim/ashhim/output/snake.svg" alt="Snake animation" />
-</div>
-
----
 
 ## Featured Repositories
 
