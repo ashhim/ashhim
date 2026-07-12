@@ -264,8 +264,6 @@ I'm an aspiring Network Engineer with a strong interest in software development,
 
 </div>
 
-## GitHub Dashboard
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashhim&theme=github-compact&hide_border=true" alt="Activity Graph" />
   <br><br>
