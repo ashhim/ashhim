@@ -18,7 +18,7 @@ Building secure software, intelligent embedded systems, and scalable application
 </a>
 
 <a href="https://instagram.com/ash_him__/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL">
