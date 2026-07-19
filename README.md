@@ -14,15 +14,15 @@ Building secure software, intelligent embedded systems, and scalable application
 ## Let's Connect
 
 <a href="https://www.linkedin.com/in/ashhim" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
 </a>
 
 <a href="https://instagram.com/ash_him__/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>
+  <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white">
 </a>
 
-<a href="mailto:your.email@example.com?subject=GitHub%20Profile%20Contact" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+<a href="mailto:YOUR_EMAIL@gmail.com?subject=GitHub%20Profile%20Contact">
+  <img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white">
 </a>
 
 </div>
