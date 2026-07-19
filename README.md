@@ -13,15 +13,15 @@ Building secure software, intelligent embedded systems, and scalable application
 
 ## Let's Connect
 
-<a href="https://www.linkedin.com/in/ashhim">
+<a href="https://www.linkedin.com/in/ashhim" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
-<a href="https://instagram.com/ash_him__/">
+<a href="https://instagram.com/ash_him__/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
 </a>
 
-<a href="mailto:your.email@gmail.com?subject=GitHub%20Profile%20Contact">
+<a href="mailto:ashhim4ever@gmail.com?subject=GitHub%20Profile%20Contact">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
