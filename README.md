@@ -11,18 +11,18 @@ Building secure software, intelligent embedded systems, and scalable application
 
 <div align="center">
 
-## Let's Connect
+## 🌐 Connect with Me
 
-<a href="https://www.linkedin.com/in/ashhim">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/ashhim" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn"/>
 </a>
 
-<a href="https://instagram.com/ash_him__/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+<a href="https://instagram.com/ash_him__/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram" height="45" alt="Instagram"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+<a href="mailto:YOUR_EMAIL@example.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Gmail"/>
 </a>
 
 </div>
