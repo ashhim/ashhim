@@ -263,9 +263,5 @@ I'm an aspiring Network Engineer with a strong interest in software development,
 </table>
 
 </div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashhim&theme=github-compact&hide_border=true" alt="Activity Graph" />
-  <br><br>
   <img src="https://raw.githubusercontent.com/ashhim/ashhim/output/snake.svg" alt="Snake animation" />
 </div>
